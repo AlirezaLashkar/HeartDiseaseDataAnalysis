@@ -47,3 +47,8 @@ Below is an example of the dataset structure:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/AlirezaLashkar/HeartAttackPredictionDataset.git
+
+
+## References
+
+- [Reference 1]([link](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data))
