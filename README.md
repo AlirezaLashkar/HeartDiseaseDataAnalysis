@@ -46,4 +46,4 @@ Below is an example of the dataset structure:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Alireza Lashkar/HeartAttackPredictionDataset.git
+   git clone https://github.com/AlirezaLashkar/HeartAttackPredictionDataset.git
