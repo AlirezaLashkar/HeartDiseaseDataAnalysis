@@ -35,6 +35,14 @@ The goal of this project is to develop and validate predictive models for heart 
   - **Missing Values:** The dataset is free from missing values, ensuring reliability in analysis.
   - **Outliers:** Initial exploration may reveal outliers in health metrics; further analysis is recommended.
 
+## Example of Dataset
+
+Below is an example of the dataset structure:
+
+![Dataset Example](path/to/your/dataset/example.png)
+
+*Replace the link with the actual path to your image showcasing the dataset.*
+
 ## Usage
 
 1. **Clone the repository:**
