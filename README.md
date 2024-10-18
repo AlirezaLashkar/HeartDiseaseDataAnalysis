@@ -44,7 +44,9 @@ Below is an example of the dataset structure:
 
 ## Usage
 
-1. **Clone the repository:**
+1. **If you want to see the code, look at the [Heart Attack Prediction CODE.ipynb](Heart%20Attack%20Prediction%20CODE.ipynb) file.**
+   
+2. **Clone the repository:**
    ```bash
    git clone https://github.com/AlirezaLashkar/HeartAttackPredictionDataset.git
 
