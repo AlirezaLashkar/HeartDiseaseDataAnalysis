@@ -51,4 +51,5 @@ Below is an example of the dataset structure:
 
 ## References
 
-- [Reference 1]([link](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data))
+- [Heart Attack Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data)
+
