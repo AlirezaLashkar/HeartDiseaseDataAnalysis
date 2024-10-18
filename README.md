@@ -52,9 +52,3 @@ Below is an example of the dataset structure:
 ## References
 
 - [Heart Attack Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data)
-
-- 
-### Key Changes Made:
-- Confirmed that the "Heart Attack Prediction CODE.ipynb" file is referenced correctly in the **Usage** section.
-
-
