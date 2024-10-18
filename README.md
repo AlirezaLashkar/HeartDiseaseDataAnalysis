@@ -39,7 +39,8 @@ The goal of this project is to develop and validate predictive models for heart 
 
 Below is an example of the dataset structure:
 
-![Dataset Example]( Data set/head of dataset.png)
+![Dataset Example](Data%20set/head%20of%20dataset.png)
+)
 
 
 ## Usage
