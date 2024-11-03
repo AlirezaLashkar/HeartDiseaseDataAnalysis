@@ -44,7 +44,7 @@ Below is an example of the dataset structure:
 
 ## Usage
 
-1. **If you want to see the General data information, look at the [Heart Attack Prediction CODE.ipynb](Heart%20Attack%20Prediction%20CODE.ipynb) file.**
+1. **If you want to see the General data information, look at the [Heart Attack Prediction General data information.ipynb](Heart%20Attack%20Prediction%20CODE.ipynb) file.**
    
 2. **Clone the repository:**
    ```bash
