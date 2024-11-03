@@ -41,6 +41,11 @@ Below is an example of the dataset structure:
 
 ![Dataset Example](Data%20set/head%20of%20dataset.png)
 
+## Evaluation of random forest and decision tree models
+
+In the final evaluation, comparing the accuracy of decision tree and random forest models shows that each has its own specific advantages and disadvantages depending on the application and complexity of the data.
+
+![Evaluation](Data%20set/Evaluation%20of%20models.png)
 ## Usage
 
 1. **If you want to see the General data information, look at the [Heart Attack Prediction General data information.ipynb](Heart%20Attack%20Prediction%20General%20data%20information.ipynb) file.**
