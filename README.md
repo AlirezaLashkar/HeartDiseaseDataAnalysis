@@ -45,8 +45,8 @@ Below is an example of the dataset structure:
 ## Usage
 
 1. **If you want to see the General data information, look at the [Heart Attack Prediction General data information.ipynb](Heart%20Attack%20Prediction%20General%20data%20information.ipynb) file.**
-   
-2. **Clone the repository:**
+2. **If you want to see the Random Forest model execution details, look at the [Implementation of random forest algorithm/Random Forest - ORG _ CODE.ipynb]([Heart%20Attack%20Prediction%20General%20data%20information.ipynb](https://github.com/AlirezaLashkar/HeartDiseaseDataAnalysis/blob/fe32a67a10cc74bbc3455baba2dbfcdc09376f43/Implementation%20of%20random%20forest%20algorithm/Random%20Forest%20-%20ORG%20_%20CODE.ipynb)) file.**
+4. **Clone the repository:**
    ```bash
    git clone https://github.com/AlirezaLashkar/HeartAttackPredictionDataset.git
 
