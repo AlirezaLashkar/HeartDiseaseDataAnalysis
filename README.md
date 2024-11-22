@@ -46,7 +46,7 @@ Below is an example of the dataset structure:
 2. **KNN showed the highest precision (0.55) and the best F1-score (0.41), indicating its strength in correctly classifying positive samples.**
 3. **Other models, including Decision Tree, SVM, and Naive Bayes, had comparable performance across all metrics.**
 
-This repository evaluates several machine learning classification models, including Decision Tree (Gini and Entropy), Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Naive Bayes, using four key performance metrics: accuracy, which measures overall correctness; precision, the proportion of true positives among predicted positives; recall, the ability to identify all relevant positive cases; and F1-score, the harmonic mean of precision and recall. The goal is to provide a comparative analysis of these models based on these metrics to assist in selecting the best algorithm for a given classification task.
+- **This repository evaluates several machine learning classification models, including Decision Tree (Gini and Entropy), Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Naive Bayes, using four key performance metrics: accuracy, which measures overall correctness; precision, the proportion of true positives among predicted positives; recall, the ability to identify all relevant positive cases; and F1-score, the harmonic mean of precision and recall. The goal is to provide a comparative analysis of these models based on these metrics to assist in selecting the best algorithm for a given classification task.**
 
 
 ![Evaluation](Data%20set/eval.png)
