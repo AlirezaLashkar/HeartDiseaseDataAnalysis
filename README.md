@@ -51,7 +51,10 @@ In the final evaluation, comparing the accuracy of decision tree and random fore
 1. **If you want to see the General data information, look at the [Heart Attack Prediction General data information.ipynb](Heart%20Attack%20Prediction%20General%20data%20information.ipynb) file.**
 2. **If you want to see the Random Forest model execution details, look at the [Implementation of random forest algorithm](Implementation%20of%20random%20forest%20algorithm/Random%20Forest%20-%20ORG%20_%20CODE.ipynb) file.**
 3. **If you want to see the Decision Tree model execution details, look at the [Implementation of Decision Tree algorithm](Implementation%20of%20Decision%20Tree%20algorithm/Decision%20Tree.ipynb) file.**
-4. **Clone the repository:**
+4. **If you want to see the KNN model execution details, look at the [Implementation of KNN algorithm](Implementation%20of%20KNN%20algorithm/KNN.ipynb) file.**
+5. **If you want to see the Naive bayes model execution details, look at the [Implementation of Naive bayes algorithm](Implementation%20of%20Naive%20bayes%20algorithm/Naive%20bayes.ipynb) file.**
+6. **If you want to see the SVM execution details, look at the [Implementation of Decision Tree algorithm](Implementation%20of%20SVM%20algorithm/SVM.ipynb) file.**
+7. **Clone the repository:**
    ```bash
    git clone https://github.com/AlirezaLashkar/HeartAttackPredictionDataset.git
 
