@@ -42,9 +42,9 @@ Below is an example of the dataset structure:
 ![Dataset Example](Data%20set/head%20of%20dataset.png)
 
 ## Evaluation Results
-1.**Random Forest achieved the highest accuracy (0.6435), making it the most reliable for general use cases.**
-2.**KNN showed the highest precision (0.55) and the best F1-score (0.41), indicating its strength in correctly classifying positive samples.**
-3.**Other models, including Decision Tree, SVM, and Naive Bayes, had comparable performance across all metrics.**
+1. **Random Forest achieved the highest accuracy (0.6435), making it the most reliable for general use cases.**
+2. **KNN showed the highest precision (0.55) and the best F1-score (0.41), indicating its strength in correctly classifying positive samples.**
+3. **Other models, including Decision Tree, SVM, and Naive Bayes, had comparable performance across all metrics.**
 
 This repository evaluates several machine learning classification models, including Decision Tree (Gini and Entropy), Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Naive Bayes, using four key performance metrics: accuracy, which measures overall correctness; precision, the proportion of true positives among predicted positives; recall, the ability to identify all relevant positive cases; and F1-score, the harmonic mean of precision and recall. The goal is to provide a comparative analysis of these models based on these metrics to assist in selecting the best algorithm for a given classification task.
 
