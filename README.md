@@ -41,10 +41,12 @@ Below is an example of the dataset structure:
 
 ![Dataset Example](Data%20set/head%20of%20dataset.png)
 
-## Evaluation of random forest and decision tree models
+## Evaluation Results
+1.**Random Forest achieved the highest accuracy (0.6435), making it the most reliable for general use cases.**
+2.**KNN showed the highest precision (0.55) and the best F1-score (0.41), indicating its strength in correctly classifying positive samples.**
+3. **Other models, including Decision Tree, SVM, and Naive Bayes, had comparable performance across all metrics.**
 
-In the final evaluation, comparing the accuracy of decision tree and random forest models shows that each has its own specific advantages and disadvantages depending on the application and complexity of the data.
-
+This repository evaluates several machine learning classification models, including Decision Tree (Gini and Entropy), Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Naive Bayes, using four key performance metrics: accuracy, which measures overall correctness; precision, the proportion of true positives among predicted positives; recall, the ability to identify all relevant positive cases; and F1-score, the harmonic mean of precision and recall. The goal is to provide a comparative analysis of these models based on these metrics to assist in selecting the best algorithm for a given classification task.
 ![Evaluation](Data%20set/eval.png)
 ## Usage
 
@@ -53,7 +55,7 @@ In the final evaluation, comparing the accuracy of decision tree and random fore
 3. **If you want to see the Decision Tree model execution details, look at the [Implementation of Decision Tree algorithm](Implementation%20of%20Decision%20Tree%20algorithm/Decision%20Tree.ipynb) file.**
 4. **If you want to see the KNN model execution details, look at the [Implementation of KNN algorithm](Implementation%20of%20KNN%20algorithm/KNN.ipynb) file.**
 5. **If you want to see the Naive bayes model execution details, look at the [Implementation of Naive bayes algorithm](Implementation%20of%20Naive%20bayes%20algorithm/Naive%20bayes.ipynb) file.**
-6. **If you want to see the SVM execution details, look at the [Implementation of Decision Tree algorithm](Implementation%20of%20SVM%20algorithm/SVM.ipynb) file.**
+6. **If you want to see the SVM execution details, look at the [Implementation of SVM algorithm](Implementation%20of%20SVM%20algorithm/SVM.ipynb) file.**
 7. **Clone the repository:**
    ```bash
    git clone https://github.com/AlirezaLashkar/HeartAttackPredictionDataset.git
