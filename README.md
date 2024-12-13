@@ -58,7 +58,8 @@ Below is an example of the dataset structure:
 4. **If you want to see the KNN model execution details, look at the [Implementation of KNN algorithm](Implementation%20of%20KNN%20algorithm/KNN.ipynb) file.**
 5. **If you want to see the Naive bayes model execution details, look at the [Implementation of Naive bayes algorithm](Implementation%20of%20Naive%20bayes%20algorithm/Naive%20bayes.ipynb) file.**
 6. **If you want to see the SVM execution details, look at the [Implementation of SVM algorithm](Implementation%20of%20SVM%20algorithm/SVM.ipynb) file.**
-7. **Clone the repository:**
+7. **If you want to see the Ensemble method execution details, look at the [Implementation of Ensemble method algorithm](Implementation%20of%20Ensemble%20method%20algorithm/ensemble%20method.ipynb) file.**
+8. **Clone the repository:**
    ```bash
    git clone https://github.com/AlirezaLashkar/HeartAttackPredictionDataset.git
 
