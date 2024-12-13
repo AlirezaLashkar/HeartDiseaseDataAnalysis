@@ -42,14 +42,33 @@ Below is an example of the dataset structure:
 ![Dataset Example](Data%20set/head%20of%20dataset.png)
 
 ## Evaluation Results
-1. **Random Forest achieved the highest accuracy (0.6435), making it the most reliable for general use cases.**
-2. **KNN showed the highest precision (0.55) and the best F1-score (0.41), indicating its strength in correctly classifying positive samples.**
-3. **Other models, including Decision Tree, SVM, and Naive Bayes, had comparable performance across all metrics.**
+This project evaluates the performance of several classification algorithms using four metrics:
 
-- **This repository evaluates several machine learning classification models, including Decision Tree (Gini and Entropy), Random Forest, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Naive Bayes, using four key performance metrics: accuracy, which measures overall correctness; precision, the proportion of true positives among predicted positives; recall, the ability to identify all relevant positive cases; and F1-score, the harmonic mean of precision and recall. The goal is to provide a comparative analysis of these models based on these metrics to assist in selecting the best algorithm for a given classification task.**
+- **Accuracy**: Overall correctness of predictions.
+- **Precision**: Proportion of true positives among predicted positives.
+- **Recall**: Ability to identify all positive cases.
+- **F1-Score**: Harmonic mean of precision and recall.
+
+## Algorithms Used
+1. **Decision Tree (Gini and Entropy)**
+2. **Random Forest**
+3. **K-Nearest Neighbors (KNN)**
+4. **Support Vector Machine (SVM)**
+5. **Naive Bayes**
+6. **Ensemble Method**
+
+## Results Summary
+- **Random Forest** achieved the highest accuracy (0.678) and balanced performance across all metrics.
+- **SVM** and the **Ensemble Method** showed strong F1-scores (0.66), making them reliable for balanced datasets.
+- **Decision Trees** and **KNN** delivered moderate accuracy, suitable for simpler use cases.
+- **Naive Bayes** had the lowest precision (0.32), but remains efficient for specific tasks.
+
+## Conclusion
+- **Random Forest** is the most reliable for general use.
+- For datasets requiring balanced precision and recall, **SVM** or **Ensemble Method** are recommended.
 
 
-![Evaluation](Data%20set/eval.png)
+![Evaluation](Data%20set/eval%20all.png)
 ## Usage
 
 1. **If you want to see the General data information, look at the [Heart Attack Prediction General data information.ipynb](Heart%20Attack%20Prediction%20General%20data%20information.ipynb) file.**
